@@ -1,2 +1,2 @@
 # Programming-with-ROS
-Exercises demonstrating the use of Robot Operating System
+This repo demonstrates usage of Robot Operating System packages to solve simple problems.
